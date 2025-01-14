@@ -1,3 +1,10 @@
+# My part of the README :
+
+I use this repo as a way to train myself over different languages for personal purpose, this fork is by no mean an improvement to the original version and you should refer to it instead.
+I would also like to thank the original authors of the project for this well done piece of work, eventhough I would suggest to add at least unit test in every language in order to not compare business rule one by one to the original version. If I can, I'll try to do unit test on the languages I solve in order to later on submit a PR (not from this repository though) to add them for the community.
+
+# Gilded Rose README part :
+
 _Support this and all my katas via [Patreon](https://www.patreon.com/EmilyBache)_
 
 # Gilded Rose Refactoring Kata
